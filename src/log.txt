@@ -1,0 +1,14 @@
+2021-07-21 11:08:31 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:09:32 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:11:08 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:26:11 INFO  LoggingBankAct:80 - User deposit the amount
+2021-07-21 11:38:57 INFO  LoggingBankAct:80 - User deposit the amount
+2021-07-21 11:39:12 INFO  LoggingBankAct:30 - User deposit the amount
+2021-07-21 11:39:36 WARN  LoggingBankAct:60 - User tried to login with invalid credentials
+2021-07-21 11:39:55 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:40:45 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:41:16 INFO  LoggingBankAct:58 - user was logged in
+2021-07-21 11:41:59 INFO  LoggingBankAct:27 - New employee has registered
+2021-07-21 11:42:51 INFO  LoggingBankAct:80 - User deposit the amount
+2021-07-21 11:44:49 INFO  LoggingBankAct:42 - Employee has been logged in
+2021-07-21 11:45:13 INFO  LoggingBankAct:72 - Your Account has been deleted
